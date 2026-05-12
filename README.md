@@ -19,7 +19,7 @@ Windows Security Event Log monitoring using Splunk, SPL queries, dashboards, and
 ### Windows Event Log Ingestion
 - Confirms that Windows Security logs were added as a data source.
 
-  ### Alert Configuration
+ ### Alert Configuration
   - Trigger Condition: Number of results > 0
   -  Trigger: Once
   -  Action: Add to Triggered Alerts
